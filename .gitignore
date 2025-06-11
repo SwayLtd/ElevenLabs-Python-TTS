@@ -1,0 +1,21 @@
+.vscode/
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+input/
+output/
+pcm/
+wavtmp_*/
+# fichiers temporaires
+*.tmp.wav
+*.tmp.pcm
